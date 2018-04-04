@@ -1,0 +1,3 @@
+targets:
+  olk_test: shared-eu-west-1/cjfl0dtsb57lu0154je7fvhn1
+  default: olk_test
